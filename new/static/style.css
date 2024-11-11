@@ -1,0 +1,59 @@
+.bodybg{
+    background-image: url("/static/images/bg.jpg");
+    background-size: 100%;
+    background-blend-mode: color;
+    background-color: aqua;
+    background-attachment: fixed;
+}
+.h4{
+    text-align: center;
+    font-weight: 700;
+}
+.l_form{
+    width: 400px;
+    margin-top: 15%;
+    margin-left: 15%;
+    background-color: rgba(231, 171, 31, 0.514);
+    border-radius: 15px;
+    color: white;
+    font-weight: 700;
+}
+.l_items{
+    margin: auto;
+    width: 300px;
+    padding: 50px;
+}
+.input{
+    background-color: rgba(255, 255, 255, 0);
+}
+.alert{
+    color: white;
+}
+.btn{
+    font-weight: 700;
+    color: white;
+}
+.btn:hover{
+    background-color: white;
+    color: rgba(231, 171, 31, 0.514);
+}
+.crd img{
+    height: 350px;
+    object-fit: contain;
+}
+.card{
+    border: 0;
+}
+.crd:hover{
+    border: 0px solid black;
+    box-shadow: 0px 0px 20px;
+}
+.edit-card{
+    background-color: rgba(240, 248, 255, 0);
+}
+.edit-card .form-control{
+    width: 200px;
+}
+.main{
+    margin-top: 3%;
+}
